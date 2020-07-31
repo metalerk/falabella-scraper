@@ -1,0 +1,6 @@
+geckodriver
+*.log
+*.pyc
+__pycache__
+env/
+.env
